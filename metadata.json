@@ -1,0 +1,5 @@
+{
+  "name": "gerador de palpites",
+  "description": "Gerador completo de palpites para Jogo do Bicho, incluindo gerador de milhar, horóscopo do dia, puxadas e decifrador de sonhos.",
+  "requestFramePermissions": []
+}
